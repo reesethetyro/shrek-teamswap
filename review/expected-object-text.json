@@ -1,0 +1,74 @@
+{
+  "fairy/Steam": {
+    "sha256": "e1d7279e0c7bf28d0eff805ca47aa76bffbf632f0400aab4bfa5bcaa06c9615e",
+    "length": 183190,
+    "reference_executable_sha256": "d9f998fc63ba079a4f6d29444bacf82801a59986c21ee0e28085d69ef9fea797",
+    "code_rva": 417075200
+  },
+  "quick/Steam": {
+    "sha256": "21bbe41492b5783e6a1bae6e4ce152739f254379ea98785e76752336ade36532",
+    "length": 5804,
+    "reference_executable_sha256": "3b6afe2a48370c1d92a2daa2481d186721d55d435aeefe06ab0dc8dca568fa74",
+    "code_rva": 417878432
+  },
+  "arena_ammo/Steam": {
+    "sha256": "ba31bdf7c0f72c94d5488758d432130d7b631c9fb5df1673fff7d7a343e2d1e6",
+    "length": 1436,
+    "reference_executable_sha256": "d9f998fc63ba079a4f6d29444bacf82801a59986c21ee0e28085d69ef9fea797",
+    "code_rva": 417671024
+  },
+  "fairy/Epic": {
+    "sha256": "3d5d570aec98544b81de1695f0f51916e033f8a46abdd99cb91ef8f55cb36e03",
+    "length": 183190,
+    "reference_executable_sha256": "0ad83d06f5b71220aa5d2b343c66e919c1fa9a06a7312a758c743deeb5ec3d10",
+    "code_rva": 417284096
+  },
+  "quick/Epic": {
+    "sha256": "11dedfc38df71c85c313ae7e8cd4cc8b9b4735102e058f6c1fcb239b901290bb",
+    "length": 5804,
+    "reference_executable_sha256": "4dea7ba567977d3ae24abeb0dadd443511f845d5f0092b2e61abe4c820da2692",
+    "code_rva": 418088368
+  },
+  "arena_ammo/Epic": {
+    "sha256": "d8449989deaa5f55b722f23c32c3e5ecef2fe2b20088065cd2f1d0950a0c4e26",
+    "length": 1436,
+    "reference_executable_sha256": "0ad83d06f5b71220aa5d2b343c66e919c1fa9a06a7312a758c743deeb5ec3d10",
+    "code_rva": 417880624
+  },
+  "fairy/Steam26880364": {
+    "sha256": "284f74942284e8d20ed04df751bc81dd671623e63db44d52b110c53461310c6c",
+    "length": 183190,
+    "reference_executable_sha256": "307b5d4e2cb83df26eb771245fa77fe54f5f7e815d15f343f29d6ab905543a9f",
+    "code_rva": 417271808
+  },
+  "quick/Steam26880364": {
+    "sha256": "1e198b62a9e3553677115bd9fdc4bb31cd263b1dca4b3726d13de6b3df24edd8",
+    "length": 5804,
+    "reference_executable_sha256": "d20e1dd68f02cbd4af8e37f3cf03a3fac5cbdfa2605a5a7408bada3b400b0327",
+    "code_rva": 418076832
+  },
+  "arena_ammo/Steam26880364": {
+    "sha256": "67bd1200afbef760ad620c01b1f5a3def107ab2762d94d2398277b6b69b9ffa6",
+    "length": 1436,
+    "reference_executable_sha256": "307b5d4e2cb83df26eb771245fa77fe54f5f7e815d15f343f29d6ab905543a9f",
+    "code_rva": 417868832
+  },
+  "fairy/Epic593174": {
+    "sha256": "8ec42388087005b90a276604aae775172a8f029d9ccfecd25c0a9edb81f079da",
+    "length": 183190,
+    "reference_executable_sha256": "32398e57a9e9ed877e4de6050c80f2696b797c1caf8f781a634c3259d19e16b7",
+    "code_rva": 417497088
+  },
+  "quick/Epic593174": {
+    "sha256": "8a66ac711ed1bb4685cfd49b45a00a0db457ec561a52854c27917eabf488553a",
+    "length": 5804,
+    "reference_executable_sha256": "66c91401d2feff1b1ed299d63d122e2daff7b53b84c0ea836fec17caa899a3b1",
+    "code_rva": 418303744
+  },
+  "arena_ammo/Epic593174": {
+    "sha256": "8565b9ac613fce037e627d382add1fd09023dbecd9dcfb79d8906c3a195244a6",
+    "length": 1436,
+    "reference_executable_sha256": "32398e57a9e9ed877e4de6050c80f2696b797c1caf8f781a634c3259d19e16b7",
+    "code_rva": 418095200
+  }
+}

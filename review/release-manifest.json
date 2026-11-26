@@ -1,0 +1,292 @@
+{
+  "date": "2026-11-26",
+  "release_zip_sha256": "0ea744887fc61f60cb457fd5a0af37e327f6d765ce4ef3a5a472b443e5ac8e2e",
+  "installer_sha256": "3407756f1ae15632d5731d6192959f90b765868e9421e9cbdd5410fd7c334328",
+  "payload_sha256": "d72ac3379e85ac3526698203fb0d4aa50e472f1cc514fddce282ee81c994dbe3",
+  "platforms": [
+    {
+      "name": "Steam build 26746348",
+      "folder": "Steam",
+      "files": [
+        {
+          "path": "Shrek.exe",
+          "clean_sha256": "dfd2bef8fabea3c6cbd224ac8275773fa5b49a0c63ff5d9cd8a6932a5ef04673",
+          "mod_sha256": "3b6afe2a48370c1d92a2daa2481d186721d55d435aeefe06ab0dc8dca568fa74"
+        },
+        {
+          "path": "gamedata/localization/menu.csv",
+          "clean_sha256": "503bace63a0f833589ce0b1eaf0ff631e5ba9eb0099145448d044867d111efb5",
+          "mod_sha256": "4b96c4eba721bb25235ea79548c0fc4531f944d762c6b13dec53f86b4f6ecc5e"
+        },
+        {
+          "path": "gamedata/menu/elements/level1.tpk.yaml",
+          "clean_sha256": "bffcb6243d2e427356283fde844e224349b065a8c4e494d50a822b74bb39a736",
+          "mod_sha256": "bfcb4e6ecf78bb2dec25b7f6f7f58d6b1a433e9003892a97f0799326ee0d563d"
+        },
+        {
+          "path": "gamedata/menu/elements/level2.tpk.yaml",
+          "clean_sha256": "e85ae0f9b00f0a99242105d5825c019d0d78852c0bf8fdafaa153d797c26546c",
+          "mod_sha256": "5abe76b77abc0faeb1ce1a163c3e67714e9e477bfc32b3e5ffd8d7cbca0e9bba"
+        },
+        {
+          "path": "gamedata/menu/elements/level3.tpk.yaml",
+          "clean_sha256": "1832b376259d62be4b7bfcc16930347e93336fd3bdcb44531ce79be48fbaa253",
+          "mod_sha256": "b3802ad442c40ddd5bcc9b356b807312423d52a753cca9fde94e27b5223aa0d9"
+        },
+        {
+          "path": "gamedata/menu/elements/level5.tpk.yaml",
+          "clean_sha256": "136901adecdb378a5aa174f918d947a6843f6055c7a95b8603b0cb7f144caba3",
+          "mod_sha256": "76b9b5aa256f25d928823561927e5934083c7e1bfc2cdb6e7551d8dc83be0dd7"
+        },
+        {
+          "path": "gamedata/menu/elements/level6.tpk.yaml",
+          "clean_sha256": "9c46ab9283e7ea3f76ee0d15c02527ebe2a0751020c6718e4858c2e870fce882",
+          "mod_sha256": "b54d864a7681ff3d20c35edfe209aff2b90910a0973ab628297da158e658c1b9"
+        },
+        {
+          "path": "gamedata/menu/elements/level7.tpk.yaml",
+          "clean_sha256": "73be78e398c03cefe36cfc9b920ace5aff66a24ae617154d15c9fed5d381c8d6",
+          "mod_sha256": "1eb65f4b6115da7e6f1f8782513f7f629fef480ef6736b4d3b21258542e45148"
+        },
+        {
+          "path": "gamedata/menu/elements/level11.tpk.yaml",
+          "clean_sha256": "b6b6cc1ac99a273b813e643eae1c7814b427aee166c6612de8bd8ad112c0ff89",
+          "mod_sha256": "1246cdc0db8db13c4cad8c156f6219b52dcba5f53198aa4139563d0329d31604"
+        },
+        {
+          "path": "gamedata/menu/elements/level13.tpk.yaml",
+          "clean_sha256": "156874f1ca902723a3b30bff501510905d50db7eb0b247dda648c8b6565926b3",
+          "mod_sha256": "e06327f00b8f2dbe0e121971a5fbaa668c9fa19392804b8b8d04bc67a105a249"
+        },
+        {
+          "path": "gamedata/menu/elements/level14.tpk.yaml",
+          "clean_sha256": "3207e5fdb9060f68e9d9f16428c8a88644ed9430fba2f7c59f6fc8f9639421c3",
+          "mod_sha256": "6777f730c1a8e6aa8d05513991a4937211fe9a139b5d1397d1a02539c474848f"
+        },
+        {
+          "path": "gamedata/menu/elements/level15.tpk.yaml",
+          "clean_sha256": "bdd3688d938731b3700df11e2b1d4b416497119c000a1e98e32de289e96e48f1",
+          "mod_sha256": "83de04602c2686546e5e47c5651ca6415ab20e061d154c981717a3e9bf25136f"
+        },
+        {
+          "path": "gamedata/menu/elements/level24.tpk.yaml",
+          "clean_sha256": "e6fbfc2efb0be7a77065c6c80e8868d87076375d5d71e2180a2f843508bc6660",
+          "mod_sha256": "e2764056c61a47dbf08ed51913a21d6f603a55b9353bb7986661a9231072f96d"
+        }
+      ]
+    },
+    {
+      "name": "Epic CL588802",
+      "folder": "Epic",
+      "files": [
+        {
+          "path": "Shrek.exe",
+          "clean_sha256": "f1ff8739106161b985640dac6fbd796db4cb1d28a2d81a705ddf9928f11af85c",
+          "mod_sha256": "4dea7ba567977d3ae24abeb0dadd443511f845d5f0092b2e61abe4c820da2692"
+        },
+        {
+          "path": "gamedata/localization/menu.csv",
+          "clean_sha256": "503bace63a0f833589ce0b1eaf0ff631e5ba9eb0099145448d044867d111efb5",
+          "mod_sha256": "4b96c4eba721bb25235ea79548c0fc4531f944d762c6b13dec53f86b4f6ecc5e"
+        },
+        {
+          "path": "gamedata/menu/elements/level1.tpk.yaml",
+          "clean_sha256": "bffcb6243d2e427356283fde844e224349b065a8c4e494d50a822b74bb39a736",
+          "mod_sha256": "bfcb4e6ecf78bb2dec25b7f6f7f58d6b1a433e9003892a97f0799326ee0d563d"
+        },
+        {
+          "path": "gamedata/menu/elements/level2.tpk.yaml",
+          "clean_sha256": "e85ae0f9b00f0a99242105d5825c019d0d78852c0bf8fdafaa153d797c26546c",
+          "mod_sha256": "5abe76b77abc0faeb1ce1a163c3e67714e9e477bfc32b3e5ffd8d7cbca0e9bba"
+        },
+        {
+          "path": "gamedata/menu/elements/level3.tpk.yaml",
+          "clean_sha256": "1832b376259d62be4b7bfcc16930347e93336fd3bdcb44531ce79be48fbaa253",
+          "mod_sha256": "b3802ad442c40ddd5bcc9b356b807312423d52a753cca9fde94e27b5223aa0d9"
+        },
+        {
+          "path": "gamedata/menu/elements/level5.tpk.yaml",
+          "clean_sha256": "136901adecdb378a5aa174f918d947a6843f6055c7a95b8603b0cb7f144caba3",
+          "mod_sha256": "76b9b5aa256f25d928823561927e5934083c7e1bfc2cdb6e7551d8dc83be0dd7"
+        },
+        {
+          "path": "gamedata/menu/elements/level6.tpk.yaml",
+          "clean_sha256": "9c46ab9283e7ea3f76ee0d15c02527ebe2a0751020c6718e4858c2e870fce882",
+          "mod_sha256": "b54d864a7681ff3d20c35edfe209aff2b90910a0973ab628297da158e658c1b9"
+        },
+        {
+          "path": "gamedata/menu/elements/level7.tpk.yaml",
+          "clean_sha256": "73be78e398c03cefe36cfc9b920ace5aff66a24ae617154d15c9fed5d381c8d6",
+          "mod_sha256": "1eb65f4b6115da7e6f1f8782513f7f629fef480ef6736b4d3b21258542e45148"
+        },
+        {
+          "path": "gamedata/menu/elements/level11.tpk.yaml",
+          "clean_sha256": "b6b6cc1ac99a273b813e643eae1c7814b427aee166c6612de8bd8ad112c0ff89",
+          "mod_sha256": "1246cdc0db8db13c4cad8c156f6219b52dcba5f53198aa4139563d0329d31604"
+        },
+        {
+          "path": "gamedata/menu/elements/level13.tpk.yaml",
+          "clean_sha256": "156874f1ca902723a3b30bff501510905d50db7eb0b247dda648c8b6565926b3",
+          "mod_sha256": "e06327f00b8f2dbe0e121971a5fbaa668c9fa19392804b8b8d04bc67a105a249"
+        },
+        {
+          "path": "gamedata/menu/elements/level14.tpk.yaml",
+          "clean_sha256": "3207e5fdb9060f68e9d9f16428c8a88644ed9430fba2f7c59f6fc8f9639421c3",
+          "mod_sha256": "6777f730c1a8e6aa8d05513991a4937211fe9a139b5d1397d1a02539c474848f"
+        },
+        {
+          "path": "gamedata/menu/elements/level15.tpk.yaml",
+          "clean_sha256": "bdd3688d938731b3700df11e2b1d4b416497119c000a1e98e32de289e96e48f1",
+          "mod_sha256": "83de04602c2686546e5e47c5651ca6415ab20e061d154c981717a3e9bf25136f"
+        },
+        {
+          "path": "gamedata/menu/elements/level24.tpk.yaml",
+          "clean_sha256": "e6fbfc2efb0be7a77065c6c80e8868d87076375d5d71e2180a2f843508bc6660",
+          "mod_sha256": "e2764056c61a47dbf08ed51913a21d6f603a55b9353bb7986661a9231072f96d"
+        }
+      ]
+    },
+    {
+      "name": "Steam build 26880364 CL593174",
+      "folder": "Steam26880364",
+      "files": [
+        {
+          "path": "Shrek.exe",
+          "clean_sha256": "33f6f42cfbc087c55e2d6a15ef1f32ea42282937340a1639188096ae4c8da0eb",
+          "mod_sha256": "d20e1dd68f02cbd4af8e37f3cf03a3fac5cbdfa2605a5a7408bada3b400b0327"
+        },
+        {
+          "path": "gamedata/localization/menu.csv",
+          "clean_sha256": "f073b40cbe480b2812fdc7c4574c823e4cfd29d644d51da1525aa067d4d9f589",
+          "mod_sha256": "443800841cf29b79c22fd9125da54603edf8425cc57c835cf96a0aacddfde694"
+        },
+        {
+          "path": "gamedata/menu/elements/level1.tpk.yaml",
+          "clean_sha256": "bffcb6243d2e427356283fde844e224349b065a8c4e494d50a822b74bb39a736",
+          "mod_sha256": "bfcb4e6ecf78bb2dec25b7f6f7f58d6b1a433e9003892a97f0799326ee0d563d"
+        },
+        {
+          "path": "gamedata/menu/elements/level2.tpk.yaml",
+          "clean_sha256": "e85ae0f9b00f0a99242105d5825c019d0d78852c0bf8fdafaa153d797c26546c",
+          "mod_sha256": "5abe76b77abc0faeb1ce1a163c3e67714e9e477bfc32b3e5ffd8d7cbca0e9bba"
+        },
+        {
+          "path": "gamedata/menu/elements/level3.tpk.yaml",
+          "clean_sha256": "1832b376259d62be4b7bfcc16930347e93336fd3bdcb44531ce79be48fbaa253",
+          "mod_sha256": "b3802ad442c40ddd5bcc9b356b807312423d52a753cca9fde94e27b5223aa0d9"
+        },
+        {
+          "path": "gamedata/menu/elements/level5.tpk.yaml",
+          "clean_sha256": "136901adecdb378a5aa174f918d947a6843f6055c7a95b8603b0cb7f144caba3",
+          "mod_sha256": "76b9b5aa256f25d928823561927e5934083c7e1bfc2cdb6e7551d8dc83be0dd7"
+        },
+        {
+          "path": "gamedata/menu/elements/level6.tpk.yaml",
+          "clean_sha256": "9c46ab9283e7ea3f76ee0d15c02527ebe2a0751020c6718e4858c2e870fce882",
+          "mod_sha256": "b54d864a7681ff3d20c35edfe209aff2b90910a0973ab628297da158e658c1b9"
+        },
+        {
+          "path": "gamedata/menu/elements/level7.tpk.yaml",
+          "clean_sha256": "73be78e398c03cefe36cfc9b920ace5aff66a24ae617154d15c9fed5d381c8d6",
+          "mod_sha256": "1eb65f4b6115da7e6f1f8782513f7f629fef480ef6736b4d3b21258542e45148"
+        },
+        {
+          "path": "gamedata/menu/elements/level11.tpk.yaml",
+          "clean_sha256": "b6b6cc1ac99a273b813e643eae1c7814b427aee166c6612de8bd8ad112c0ff89",
+          "mod_sha256": "1246cdc0db8db13c4cad8c156f6219b52dcba5f53198aa4139563d0329d31604"
+        },
+        {
+          "path": "gamedata/menu/elements/level13.tpk.yaml",
+          "clean_sha256": "156874f1ca902723a3b30bff501510905d50db7eb0b247dda648c8b6565926b3",
+          "mod_sha256": "e06327f00b8f2dbe0e121971a5fbaa668c9fa19392804b8b8d04bc67a105a249"
+        },
+        {
+          "path": "gamedata/menu/elements/level14.tpk.yaml",
+          "clean_sha256": "3207e5fdb9060f68e9d9f16428c8a88644ed9430fba2f7c59f6fc8f9639421c3",
+          "mod_sha256": "6777f730c1a8e6aa8d05513991a4937211fe9a139b5d1397d1a02539c474848f"
+        },
+        {
+          "path": "gamedata/menu/elements/level15.tpk.yaml",
+          "clean_sha256": "bdd3688d938731b3700df11e2b1d4b416497119c000a1e98e32de289e96e48f1",
+          "mod_sha256": "83de04602c2686546e5e47c5651ca6415ab20e061d154c981717a3e9bf25136f"
+        },
+        {
+          "path": "gamedata/menu/elements/level24.tpk.yaml",
+          "clean_sha256": "e6fbfc2efb0be7a77065c6c80e8868d87076375d5d71e2180a2f843508bc6660",
+          "mod_sha256": "e2764056c61a47dbf08ed51913a21d6f603a55b9353bb7986661a9231072f96d"
+        }
+      ]
+    },
+    {
+      "name": "Epic CL593174",
+      "folder": "Epic593174",
+      "files": [
+        {
+          "path": "Shrek.exe",
+          "clean_sha256": "3b5f70a5f2eed15f0c8cae44880ad771bc9176469a8c00012bfc774b7cbde0fe",
+          "mod_sha256": "66c91401d2feff1b1ed299d63d122e2daff7b53b84c0ea836fec17caa899a3b1"
+        },
+        {
+          "path": "gamedata/localization/menu.csv",
+          "clean_sha256": "f073b40cbe480b2812fdc7c4574c823e4cfd29d644d51da1525aa067d4d9f589",
+          "mod_sha256": "443800841cf29b79c22fd9125da54603edf8425cc57c835cf96a0aacddfde694"
+        },
+        {
+          "path": "gamedata/menu/elements/level1.tpk.yaml",
+          "clean_sha256": "bffcb6243d2e427356283fde844e224349b065a8c4e494d50a822b74bb39a736",
+          "mod_sha256": "bfcb4e6ecf78bb2dec25b7f6f7f58d6b1a433e9003892a97f0799326ee0d563d"
+        },
+        {
+          "path": "gamedata/menu/elements/level2.tpk.yaml",
+          "clean_sha256": "e85ae0f9b00f0a99242105d5825c019d0d78852c0bf8fdafaa153d797c26546c",
+          "mod_sha256": "5abe76b77abc0faeb1ce1a163c3e67714e9e477bfc32b3e5ffd8d7cbca0e9bba"
+        },
+        {
+          "path": "gamedata/menu/elements/level3.tpk.yaml",
+          "clean_sha256": "1832b376259d62be4b7bfcc16930347e93336fd3bdcb44531ce79be48fbaa253",
+          "mod_sha256": "b3802ad442c40ddd5bcc9b356b807312423d52a753cca9fde94e27b5223aa0d9"
+        },
+        {
+          "path": "gamedata/menu/elements/level5.tpk.yaml",
+          "clean_sha256": "136901adecdb378a5aa174f918d947a6843f6055c7a95b8603b0cb7f144caba3",
+          "mod_sha256": "76b9b5aa256f25d928823561927e5934083c7e1bfc2cdb6e7551d8dc83be0dd7"
+        },
+        {
+          "path": "gamedata/menu/elements/level6.tpk.yaml",
+          "clean_sha256": "9c46ab9283e7ea3f76ee0d15c02527ebe2a0751020c6718e4858c2e870fce882",
+          "mod_sha256": "b54d864a7681ff3d20c35edfe209aff2b90910a0973ab628297da158e658c1b9"
+        },
+        {
+          "path": "gamedata/menu/elements/level7.tpk.yaml",
+          "clean_sha256": "73be78e398c03cefe36cfc9b920ace5aff66a24ae617154d15c9fed5d381c8d6",
+          "mod_sha256": "1eb65f4b6115da7e6f1f8782513f7f629fef480ef6736b4d3b21258542e45148"
+        },
+        {
+          "path": "gamedata/menu/elements/level11.tpk.yaml",
+          "clean_sha256": "b6b6cc1ac99a273b813e643eae1c7814b427aee166c6612de8bd8ad112c0ff89",
+          "mod_sha256": "1246cdc0db8db13c4cad8c156f6219b52dcba5f53198aa4139563d0329d31604"
+        },
+        {
+          "path": "gamedata/menu/elements/level13.tpk.yaml",
+          "clean_sha256": "156874f1ca902723a3b30bff501510905d50db7eb0b247dda648c8b6565926b3",
+          "mod_sha256": "e06327f00b8f2dbe0e121971a5fbaa668c9fa19392804b8b8d04bc67a105a249"
+        },
+        {
+          "path": "gamedata/menu/elements/level14.tpk.yaml",
+          "clean_sha256": "3207e5fdb9060f68e9d9f16428c8a88644ed9430fba2f7c59f6fc8f9639421c3",
+          "mod_sha256": "6777f730c1a8e6aa8d05513991a4937211fe9a139b5d1397d1a02539c474848f"
+        },
+        {
+          "path": "gamedata/menu/elements/level15.tpk.yaml",
+          "clean_sha256": "bdd3688d938731b3700df11e2b1d4b416497119c000a1e98e32de289e96e48f1",
+          "mod_sha256": "83de04602c2686546e5e47c5651ca6415ab20e061d154c981717a3e9bf25136f"
+        },
+        {
+          "path": "gamedata/menu/elements/level24.tpk.yaml",
+          "clean_sha256": "e6fbfc2efb0be7a77065c6c80e8868d87076375d5d71e2180a2f843508bc6660",
+          "mod_sha256": "e2764056c61a47dbf08ed51913a21d6f603a55b9353bb7986661a9231072f96d"
+        }
+      ]
+    }
+  ]
+}

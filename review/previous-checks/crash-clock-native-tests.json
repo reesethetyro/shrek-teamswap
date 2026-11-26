@@ -1,0 +1,32 @@
+{
+  "status": "passed",
+  "assertions": 560,
+  "variants": [
+    {
+      "variant": 0,
+      "clock_function": 1902640,
+      "bank": 416645420,
+      "tests": "chapter/online/owner scope and actual clock pickup passed"
+    },
+    {
+      "variant": 1,
+      "clock_function": 1902672,
+      "bank": 416649516,
+      "tests": "chapter/online/owner scope and actual clock pickup passed"
+    },
+    {
+      "variant": 2,
+      "clock_function": 1904496,
+      "bank": 416637228,
+      "tests": "chapter/online/owner scope and actual clock pickup passed"
+    },
+    {
+      "variant": 3,
+      "clock_function": 1903616,
+      "bank": 416653612,
+      "tests": "chapter/online/owner scope and actual clock pickup passed"
+    }
+  ],
+  "scope": "offline Crash Coliseum Fiona clocks only; original owner and campaign behavior retained",
+  "live_gameplay": "pending"
+}

@@ -1,0 +1,8 @@
+{
+  "status": "passed",
+  "assertions": 21664,
+  "variants": 4,
+  "combinations": 126,
+  "live_gameplay": "pending",
+  "actor_creation": "existing swap commit mocked for selection tests"
+}

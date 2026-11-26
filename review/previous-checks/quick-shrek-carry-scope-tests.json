@@ -1,0 +1,6 @@
+{
+  "status": "passed",
+  "assertions": 44,
+  "variants": 4,
+  "scope": "new code and documented hook sites and six damage-multiplier reads only; all previous feature payload bytes preserved"
+}

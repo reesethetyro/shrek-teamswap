@@ -1,0 +1,9 @@
+{
+  "zip_sha256": "0ea744887fc61f60cb457fd5a0af37e327f6d765ce4ef3a5a472b443e5ac8e2e",
+  "native_quick_checks": 21664,
+  "installer_checks": 240,
+  "variants": 4,
+  "postbuild_reproduction": "all four matched",
+  "live_gameplay": "pending user test",
+  "cindy": "excluded"
+}

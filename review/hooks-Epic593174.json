@@ -1,0 +1,405 @@
+{
+  "platform": "Epic593174",
+  "fairy_hooks": [
+    {
+      "rva": 1064878,
+      "old_rva": 1063966,
+      "before": "4c8d442450ba0b000000ffd0",
+      "after": "4c8d442450e84844d2189090"
+    },
+    {
+      "rva": 1978160,
+      "old_rva": 1968768,
+      "before": "40534883ec30",
+      "after": "e9db50c41890"
+    },
+    {
+      "rva": 2382128,
+      "old_rva": 2366096,
+      "before": "48895c2410",
+      "after": "e9fe26be18"
+    },
+    {
+      "rva": 2094144,
+      "old_rva": 2084608,
+      "before": "405553574154",
+      "after": "e91b8cc21890"
+    },
+    {
+      "rva": 2091392,
+      "old_rva": 2081856,
+      "before": "48896c2418",
+      "after": "e90497c218"
+    },
+    {
+      "rva": 2091462,
+      "old_rva": 2081926,
+      "before": "0f840d010000",
+      "after": "909090909090"
+    },
+    {
+      "rva": 1971376,
+      "old_rva": 1962000,
+      "before": "40574883ec30",
+      "after": "e90f6cc41890"
+    },
+    {
+      "rva": 2118288,
+      "old_rva": 2108752,
+      "before": "40555356488d6c24d0",
+      "after": "e98a2ec21890909090"
+    },
+    {
+      "rva": 2094503,
+      "old_rva": 2084967,
+      "before": "f680b0010000010f847e010000",
+      "after": "e93b8bc2189090909090909090"
+    },
+    {
+      "rva": 2118823,
+      "old_rva": 2109287,
+      "before": "f680b0010000010f8480010000",
+      "after": "e9572cc2189090909090909090"
+    },
+    {
+      "rva": 2094536,
+      "old_rva": 2085000,
+      "before": "e8f353e9ff",
+      "after": "e8918bc218"
+    },
+    {
+      "rva": 2118856,
+      "old_rva": 2109320,
+      "before": "e8f3f4e8ff",
+      "after": "e8912cc218"
+    },
+    {
+      "rva": 2355440,
+      "old_rva": 2339408,
+      "before": "488d0de9693900",
+      "after": "e9bbcfbe189090"
+    },
+    {
+      "rva": 2365168,
+      "old_rva": 2349136,
+      "before": "488d0de9433900",
+      "after": "e9d9a9be189090"
+    },
+    {
+      "rva": 2435136,
+      "old_rva": 2418864,
+      "before": "4533c0c701ffffffff",
+      "after": "e9a798bd1890909090"
+    },
+    {
+      "rva": 1821232,
+      "old_rva": 1820256,
+      "before": "48895c2408",
+      "after": "e9dcf6c618"
+    },
+    {
+      "rva": 1821568,
+      "old_rva": 1820592,
+      "before": "48895c2408",
+      "after": "e9b3f5c618"
+    },
+    {
+      "rva": 2480987,
+      "old_rva": 2464635,
+      "before": "e93dd8af18",
+      "after": "e9ffe5bc18"
+    },
+    {
+      "rva": 2481485,
+      "old_rva": 2465133,
+      "before": "e9a7d6af18",
+      "after": "e9a9e4bc18"
+    },
+    {
+      "rva": 1212688,
+      "old_rva": 1211776,
+      "before": "e85b270000",
+      "after": "e84b35d018"
+    },
+    {
+      "rva": 2114960,
+      "old_rva": 2105424,
+      "before": "48895c2408",
+      "after": "e94b72c218"
+    },
+    {
+      "rva": 2500336,
+      "old_rva": 2483920,
+      "before": "48895c2408",
+      "after": "e94b92bc18"
+    },
+    {
+      "rva": 2486688,
+      "old_rva": 2470336,
+      "before": "e9c4d9af18",
+      "after": "e9abd0bc18"
+    },
+    {
+      "rva": 416658480,
+      "old_rva": 416650288,
+      "before": "83bf6001000001",
+      "after": "e9370e0d009090"
+    },
+    {
+      "rva": 1223273,
+      "old_rva": 1222361,
+      "before": "e8f2aa1a00",
+      "after": "e8a212d018"
+    },
+    {
+      "rva": 1223642,
+      "old_rva": 1222730,
+      "before": "e881a91a00",
+      "after": "e83111d018"
+    },
+    {
+      "rva": 1223904,
+      "old_rva": 1222992,
+      "before": "e87ba81a00",
+      "after": "e82b10d018"
+    },
+    {
+      "rva": 1212176,
+      "old_rva": 1211264,
+      "before": "488bc448895808",
+      "after": "e99b3fd0189090"
+    },
+    {
+      "rva": 2012496,
+      "old_rva": 2003104,
+      "before": "48895c2410",
+      "after": "e91bcec318"
+    }
+  ],
+  "quick_and_fix_hooks": [
+    {
+      "rva": 2394608,
+      "before": "488bc448895810",
+      "after": "e91b45ca189090"
+    },
+    {
+      "rva": 2355440,
+      "before": "e9bbcfbe18",
+      "after": "e92be3ca18"
+    },
+    {
+      "rva": 2365168,
+      "before": "e9d9a9be18",
+      "after": "e96bbdca18"
+    },
+    {
+      "rva": 417513717,
+      "before": "e846dcffff",
+      "after": "e8b6140c00"
+    },
+    {
+      "rva": 417513764,
+      "before": "e807dbffff",
+      "after": "e8c7130c00"
+    },
+    {
+      "rva": 417513803,
+      "before": "e880dbffff",
+      "after": "e810140c00"
+    },
+    {
+      "rva": 2500336,
+      "before": "e94b92bc18",
+      "after": "e9abb3c818"
+    },
+    {
+      "rva": 1212688,
+      "before": "e84b35d018",
+      "after": "e88b63dc18"
+    },
+    {
+      "rva": 2012368,
+      "before": "48895c2410",
+      "after": "e96b2fd018"
+    },
+    {
+      "rva": 566537,
+      "before": "0fb605b0585300",
+      "after": "e8422ae6189090"
+    },
+    {
+      "rva": 574969,
+      "before": "0fb605c0375300",
+      "after": "e8220ae6189090"
+    },
+    {
+      "rva": 734372,
+      "before": "0fb60515c95000",
+      "after": "e8479ce3189090"
+    },
+    {
+      "rva": 1177773,
+      "before": "0fb6050c054a00",
+      "after": "e80ed9dc189090"
+    },
+    {
+      "rva": 1557927,
+      "before": "0fb61d12384400",
+      "after": "e8e40cd7189090"
+    },
+    {
+      "rva": 1561225,
+      "before": "0fb63d302b4400",
+      "after": "e8d200d7189090"
+    },
+    {
+      "rva": 416665908,
+      "before": "e8b73355e7",
+      "after": "e8d7111900"
+    }
+  ],
+  "quick_exports": {
+    ".text": 0,
+    "quick_start": 0,
+    "quick_base": 0,
+    "quick_state": 8,
+    "quick_world_hook": 16,
+    "quick_tick": 3232,
+    "quick_world_original": 51,
+    "attack_pickup_original": 63,
+    "potion_damage_0": 80,
+    "quick_damage": 5184,
+    "potion_damage_1": 288,
+    "potion_damage_2": 496,
+    "potion_damage_3": 704,
+    "potion_damage_4": 912,
+    "potion_damage_5": 1120,
+    "quick_damage_slot": 5296,
+    "quick_get": 1312,
+    "quick_set": 1376,
+    "quick_load": 1520,
+    "??_C@_0BC@GMFCDBPL@TeamSwapQuickSwap?$AA@": 5718,
+    "quick_save": 1632,
+    "quick_init": 1712,
+    "??_C@_0N@EDOKJKBP@QuickSwapSet?$AA@": 5736,
+    "quick_string": 2976,
+    "??_C@_0BK@OADOBDPF@HideCharacterPortraitsSet?$AA@": 5749,
+    "??_C@_08PFNLDOEN@Hide?5HUD?$AA@": 5775,
+    "??_C@_0L@PCOAHKHK@Quick?5Swap?$AA@": 5784,
+    "__real@3c23d70a": 3220,
+    "?party@@YAPEAXI@Z": 4592,
+    "?live@@YA_NPEAX@Z": 4640,
+    "quick_lose_potions": 4752,
+    "swap_retire": 5136,
+    "quick_attack_pickup": 5440,
+    "pickup_hud_render": 5536
+  },
+  "fairy_exports": {
+    ".text": 0,
+    "fairy_start": 0,
+    "fairy_base": 0,
+    "fairy_state": 8,
+    "fairy_update_hook": 16,
+    "fairy_tick": 2288,
+    "fairy_update_original": 41,
+    "fairy_clear_hook": 51,
+    "fairy_reset": 368,
+    "fairy_lever_reset": 4896,
+    "fairy_exit_reset": 14208,
+    "fairy_clear_original": 86,
+    "fairy_bridge_update": 96,
+    "fairy_bridge_update_original": 127,
+    "fairy_lever_update": 5680,
+    "fairy_bridge_trigger": 137,
+    "fairy_bridge_trigger_original": 186,
+    "fairy_lever_started": 5184,
+    "fairy_action_check": 196,
+    "fairy_lever_maintain": 3920,
+    "fairy_action_original": 221,
+    "fairy_bridge_ground": 231,
+    "fairy_simple_ground": 259,
+    "fairy_simple_message": 287,
+    "fairy_simple_original": 337,
+    "fairy_lever_height": 350,
+    "?potion@@YA_NXZ": 720,
+    "fairy_potion_pickup": 880,
+    "fairy_potion_original": 183180,
+    "fairy_hit": 1024,
+    "__real@47c35000": 1004,
+    "__real@44160000": 1008,
+    "?attach_fx@@YAXPEAX@Z": 1760,
+    "??_C@_0CB@EDMKJMFL@gamedata?2Levels?2Level23?2Gameplay@": 16496,
+    "fairy_hud_attach": 3024,
+    "fairy_exit_contacts": 3472,
+    "?sparkles@@YAXPEAX@Z": 4544,
+    "__xmm@0000000000000000c1c00000c1000000": 2992,
+    "__xmm@00000000000000003f8000003f800000": 3008,
+    "fairy_countdown_value": 13328,
+    "__real@447a0000": 3440,
+    "__real@3ea00000": 3444,
+    "__real@be4ccccd": 3448,
+    "__real@3e4ccccd": 3452,
+    "__real@3e4f5c29": 3456,
+    "?fairy@@YA_NPEAX@Z": 4688,
+    "fairy_exit_original": 16956,
+    "__xmm@ffffffffffffffffffffffff0000000a": 3904,
+    "__real@bd23d70a": 5172,
+    "__real@44e10000": 5636,
+    "__real@41900000": 5640,
+    "__xmm@00000000000000004190000041900000": 5648,
+    "__real@40c00000": 5664,
+    "__real@40000000": 5668,
+    "__real@be000000": 5672,
+    "?lever_knob@@YAPEAXPEAXH@Z": 16176,
+    "settings_get": 6944,
+    "settings_hide_get": 6976,
+    "settings_hide_set": 7008,
+    "settings_set": 7104,
+    "settings_load": 7216,
+    "??_C@_0BE@KAHHEHIF@TeamSwapFairyShield?$AA@": 16311,
+    "??_C@_0BG@PFEKEBMG@TeamSwapHidePortraits?$AA@": 16331,
+    "settings_save": 7376,
+    "settings_init": 7488,
+    "??_C@_0BB@FCGFBBFH@TeamSwapSettings?$AA@": 16353,
+    "??_C@_0BG@CLPFNPEF@FairyShieldSpecialSet?$AA@": 16370,
+    "??_C@_0BK@OADOBDPF@HideCharacterPortraitsSet?$AA@": 16392,
+    "__real@42700000": 13320,
+    "fairy_hud_render": 13920,
+    "shield_hud_begin": 14096,
+    "shield_hud_end": 14176,
+    "fairy_exit_message": 14304,
+    "fairy_description_key": 14544,
+    "??_C@_0BG@EDMJBGAL@FairyCharacterInfo_14?$AA@": 16418,
+    "??_C@_0BM@CABGBHMG@FairyShieldCharacterInfo_14?$AA@": 16440,
+    "fairy_table_string": 14656,
+    "fairy_table_original": 16966,
+    "swap_remember_departing": 14896,
+    "?remember_page@@YAXPEAXI@Z": 14944,
+    "shield_health_active": 15280,
+    "shield_set_texture": 15632,
+    "??_C@_0BM@GGCOMGIL@Team?5Swap?5shield?5health?5bar?$AA@": 16468,
+    "shield_pixels": 17280,
+    "portrait_hidden": 15952,
+    "portrait_draw": 16048,
+    "portrait_draw_original": 183168,
+    "settings_get_hook": 16560,
+    "_dummy_get": 16590,
+    "settings_set_hook": 16590,
+    "settings_ctor_hook": 16620,
+    "settings_load_hook": 16657,
+    "settings_load_original": 16686,
+    "settings_save_hook": 16696,
+    "settings_save_original": 16725,
+    "settings_draw_hook": 16735,
+    "custom_page_draw": 16749,
+    "settings_old_draw": 16886,
+    "settings_empty": 16874,
+    "custom_page_valid": 16850,
+    "custom_roster_entries": 16864,
+    "settings_draw_resume": 16881,
+    "settings_style_hook": 16891,
+    "settings_old_style": 16951,
+    "swap_back_hook": 16976,
+    "swap_preview_hook": 17004
+  }
+}

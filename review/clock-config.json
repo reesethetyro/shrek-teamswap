@@ -1,0 +1,30 @@
+[
+  {
+    "platform": "Steam",
+    "start": 417465072,
+    "length": 60,
+    "sha256": "ad910369c526440dc8467e223dd1207e3844374b8f1fe3168de05ad332026b4b",
+    "unwind": "0104010004420000"
+  },
+  {
+    "platform": "Epic",
+    "start": 417674320,
+    "length": 60,
+    "sha256": "0cd96b991d5885ac9ee9fd7c95025f9861f56213a30b6db718a9c881df83e6bb",
+    "unwind": "0104010004420000"
+  },
+  {
+    "platform": "Steam26880364",
+    "start": 417662288,
+    "length": 60,
+    "sha256": "16fe448bceb2b838a7a06a73358641528e0920b1d315afefcb73631ea2659f24",
+    "unwind": "0104010004420000"
+  },
+  {
+    "platform": "Epic593174",
+    "start": 417888112,
+    "length": 60,
+    "sha256": "cc2a49229eb822902cf8ecf359dbc0c310b42517346a427e3010cf1f6d3d2087",
+    "unwind": "0104010004420000"
+  }
+]

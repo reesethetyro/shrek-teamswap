@@ -1,0 +1,7 @@
+{
+  "status": "passed",
+  "assertions": 96,
+  "variants": 4,
+  "file_io_and_rendering": "mocked",
+  "live_gameplay": "pending"
+}

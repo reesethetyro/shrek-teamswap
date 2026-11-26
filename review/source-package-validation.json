@@ -1,0 +1,14 @@
+{
+  "status": "passed",
+  "date": "2026-11-26",
+  "runtime_targets_matched": 12,
+  "arena_owner_gates_matched": 4,
+  "text_asset_outputs_verified": 48,
+  "installer_compile": "passed",
+  "historical_core_compile": "passed as source inspection object; not an exact current-release core build",
+  "historical_core_image_different_bytes": 325,
+  "full_clean_to_release_build": "not claimed; historical inputs documented in BUILDING.md",
+  "privacy_audit": "passed; game binaries/assets, personal paths, credential patterns and excluded experimental-character source absent",
+  "game_files_modified": false,
+  "release_zip_sha256": "0ea744887fc61f60cb457fd5a0af37e327f6d765ce4ef3a5a472b443e5ac8e2e"
+}

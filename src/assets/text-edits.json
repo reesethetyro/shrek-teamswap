@@ -1,0 +1,626 @@
+[
+  {
+    "platform": "Steam",
+    "path": "gamedata/localization/menu.csv",
+    "clean_sha256": "503bace63a0f833589ce0b1eaf0ff631e5ba9eb0099145448d044867d111efb5",
+    "mod_sha256": "4b96c4eba721bb25235ea79548c0fc4531f944d762c6b13dec53f86b4f6ecc5e",
+    "changes": [
+      {
+        "offset": 231518,
+        "remove": 68,
+        "text": "DriverMessageContinueExit,Do you want to continue anyway?,,,,,,,,,,,\r\nSwapTeamMenu,Swap Team,Swap Team,Swap Team,Swap Team,Swap Team,Swap Team,Swap Team,Swap Team,Swap Team,Swap Team,Swap Team,Swap Team\r\nTeamSwapSettings,Swap Settings,Swap Settings,Swap Settings,Swap Settings,Swap Settings,Swap Settings,Swap Settings,Swap Settings,Swap Settings,Swap Settings,Swap Settings,Swap Settings\r\nFairyShieldSpecialSet,Fairy Shield Special:,Fairy Shield Special:,Fairy Shield Special:,Fairy Shield Special:,Fairy Shield Special:,Fairy Shield Special:,Fairy Shield Special:,Fairy Shield Special:,Fairy Shield Special:,Fairy Shield Special:,Fairy Shield Special:,Fairy Shield Special:\r\nFairyShieldCharacterInfo_14,Special: Shield allies and float enemies,Special: Shield allies and float enemies,Special: Shield allies and float enemies,Special: Shield allies and float enemies,Special: Shield allies and float enemies,Special: Shield allies and float enemies,Special: Shield allies and float enemies,Special: Shield allies and float enemies,Special: Shield allies and float enemies,Special: Shield allies and float enemies,Special: Shield allies and float enemies,Special: Shield allies and float enemies\r\nHideCharacterPortraitsSet,Hide Character Portraits:,Hide Character Portraits:,Hide Character Portraits:,Hide Character Portraits:,Hide Character Portraits:,Hide Character Portraits:,Hide Character Portraits:,Hide Character Portraits:,Hide Character Portraits:,Hide Character Portraits:,Hide Character Portraits:,Hide Character Portraits:\r\n"
+      }
+    ]
+  },
+  {
+    "platform": "Steam",
+    "path": "gamedata/menu/elements/level1.tpk.yaml",
+    "clean_sha256": "bffcb6243d2e427356283fde844e224349b065a8c4e494d50a822b74bb39a736",
+    "mod_sha256": "bfcb4e6ecf78bb2dec25b7f6f7f58d6b1a433e9003892a97f0799326ee0d563d",
+    "changes": [
+      {
+        "offset": 1127,
+        "remove": 0,
+        "text": "  - index: 39\r\n    file: \\common\\player_info_snapshot_tinkerbell_01_ui.dds\r\n  - index: 40\r\n    file: \\common\\player_info_snapshot_lilred_01_ui.dds\r\n  - index: 41\r\n    file: \\common\\player_info_snapshot_handsomeshrek_01_ui.dds\r\n  - index: 45\r\n    file: \\common\\player_info_snapshot_wolf_01_ui.dds\r\n  - index: 42\r\n    file: \\common\\player_info_snapshot_pussnboots_01_ui.dds\r\n"
+      }
+    ]
+  },
+  {
+    "platform": "Steam",
+    "path": "gamedata/menu/elements/level2.tpk.yaml",
+    "clean_sha256": "e85ae0f9b00f0a99242105d5825c019d0d78852c0bf8fdafaa153d797c26546c",
+    "mod_sha256": "5abe76b77abc0faeb1ce1a163c3e67714e9e477bfc32b3e5ffd8d7cbca0e9bba",
+    "changes": [
+      {
+        "offset": 1172,
+        "remove": 0,
+        "text": "  - index: 39\r\n    file: \\common\\player_info_snapshot_tinkerbell_01_ui.dds\r\n  - index: 41\r\n    file: \\common\\player_info_snapshot_handsomeshrek_01_ui.dds\r\n  - index: 45\r\n    file: \\common\\player_info_snapshot_wolf_01_ui.dds\r\n  - index: 42\r\n    file: \\common\\player_info_snapshot_pussnboots_01_ui.dds\r\n  - index: 38\r\n    file: \\common\\player_info_snapshot_gingerbread_01_ui.dds\r\n"
+      }
+    ]
+  },
+  {
+    "platform": "Steam",
+    "path": "gamedata/menu/elements/level3.tpk.yaml",
+    "clean_sha256": "1832b376259d62be4b7bfcc16930347e93336fd3bdcb44531ce79be48fbaa253",
+    "mod_sha256": "b3802ad442c40ddd5bcc9b356b807312423d52a753cca9fde94e27b5223aa0d9",
+    "changes": [
+      {
+        "offset": 1122,
+        "remove": 0,
+        "text": "  - index: 39\r\n    file: \\common\\player_info_snapshot_tinkerbell_01_ui.dds\r\n  - index: 41\r\n    file: \\common\\player_info_snapshot_handsomeshrek_01_ui.dds\r\n  - index: 45\r\n    file: \\common\\player_info_snapshot_wolf_01_ui.dds\r\n  - index: 42\r\n    file: \\common\\player_info_snapshot_pussnboots_01_ui.dds\r\n  - index: 38\r\n    file: \\common\\player_info_snapshot_gingerbread_01_ui.dds\r\n"
+      }
+    ]
+  },
+  {
+    "platform": "Steam",
+    "path": "gamedata/menu/elements/level5.tpk.yaml",
+    "clean_sha256": "136901adecdb378a5aa174f918d947a6843f6055c7a95b8603b0cb7f144caba3",
+    "mod_sha256": "76b9b5aa256f25d928823561927e5934083c7e1bfc2cdb6e7551d8dc83be0dd7",
+    "changes": [
+      {
+        "offset": 1132,
+        "remove": 0,
+        "text": "  - index: 39\r\n    file: \\common\\player_info_snapshot_tinkerbell_01_ui.dds\r\n  - index: 40\r\n    file: \\common\\player_info_snapshot_lilred_01_ui.dds\r\n  - index: 41\r\n    file: \\common\\player_info_snapshot_handsomeshrek_01_ui.dds\r\n  - index: 45\r\n    file: \\common\\player_info_snapshot_wolf_01_ui.dds\r\n  - index: 44\r\n    file: \\common\\player_info_snapshot_fiona_01_ui.dds\r\n"
+      }
+    ]
+  },
+  {
+    "platform": "Steam",
+    "path": "gamedata/menu/elements/level6.tpk.yaml",
+    "clean_sha256": "9c46ab9283e7ea3f76ee0d15c02527ebe2a0751020c6718e4858c2e870fce882",
+    "mod_sha256": "b54d864a7681ff3d20c35edfe209aff2b90910a0973ab628297da158e658c1b9",
+    "changes": [
+      {
+        "offset": 1132,
+        "remove": 0,
+        "text": "  - index: 39\r\n    file: \\common\\player_info_snapshot_tinkerbell_01_ui.dds\r\n  - index: 40\r\n    file: \\common\\player_info_snapshot_lilred_01_ui.dds\r\n  - index: 41\r\n    file: \\common\\player_info_snapshot_handsomeshrek_01_ui.dds\r\n  - index: 45\r\n    file: \\common\\player_info_snapshot_wolf_01_ui.dds\r\n  - index: 44\r\n    file: \\common\\player_info_snapshot_fiona_01_ui.dds\r\n"
+      }
+    ]
+  },
+  {
+    "platform": "Steam",
+    "path": "gamedata/menu/elements/level7.tpk.yaml",
+    "clean_sha256": "73be78e398c03cefe36cfc9b920ace5aff66a24ae617154d15c9fed5d381c8d6",
+    "mod_sha256": "1eb65f4b6115da7e6f1f8782513f7f629fef480ef6736b4d3b21258542e45148",
+    "changes": [
+      {
+        "offset": 1127,
+        "remove": 0,
+        "text": "  - index: 39\r\n    file: \\common\\player_info_snapshot_tinkerbell_01_ui.dds\r\n  - index: 41\r\n    file: \\common\\player_info_snapshot_handsomeshrek_01_ui.dds\r\n  - index: 45\r\n    file: \\common\\player_info_snapshot_wolf_01_ui.dds\r\n  - index: 38\r\n    file: \\common\\player_info_snapshot_gingerbread_01_ui.dds\r\n  - index: 44\r\n    file: \\common\\player_info_snapshot_fiona_01_ui.dds\r\n"
+      }
+    ]
+  },
+  {
+    "platform": "Steam",
+    "path": "gamedata/menu/elements/level11.tpk.yaml",
+    "clean_sha256": "b6b6cc1ac99a273b813e643eae1c7814b427aee166c6612de8bd8ad112c0ff89",
+    "mod_sha256": "1246cdc0db8db13c4cad8c156f6219b52dcba5f53198aa4139563d0329d31604",
+    "changes": [
+      {
+        "offset": 1138,
+        "remove": 0,
+        "text": "  - index: 41\r\n    file: \\common\\player_info_snapshot_handsomeshrek_01_ui.dds\r\n  - index: 42\r\n    file: \\common\\player_info_snapshot_pussnboots_01_ui.dds\r\n  - index: 36\r\n    file: \\common\\player_info_snapshot_shrek_01_ui.dds\r\n  - index: 37\r\n    file: \\common\\player_info_snapshot_donkey_01_ui.dds\r\n  - index: 44\r\n    file: \\common\\player_info_snapshot_fiona_01_ui.dds\r\n"
+      }
+    ]
+  },
+  {
+    "platform": "Steam",
+    "path": "gamedata/menu/elements/level13.tpk.yaml",
+    "clean_sha256": "156874f1ca902723a3b30bff501510905d50db7eb0b247dda648c8b6565926b3",
+    "mod_sha256": "e06327f00b8f2dbe0e121971a5fbaa668c9fa19392804b8b8d04bc67a105a249",
+    "changes": [
+      {
+        "offset": 1150,
+        "remove": 0,
+        "text": "  - index: 39\r\n    file: \\common\\player_info_snapshot_tinkerbell_01_ui.dds\r\n  - index: 40\r\n    file: \\common\\player_info_snapshot_lilred_01_ui.dds\r\n  - index: 36\r\n    file: \\common\\player_info_snapshot_shrek_01_ui.dds\r\n  - index: 37\r\n    file: \\common\\player_info_snapshot_donkey_01_ui.dds\r\n  - index: 44\r\n    file: \\common\\player_info_snapshot_fiona_01_ui.dds\r\n"
+      }
+    ]
+  },
+  {
+    "platform": "Steam",
+    "path": "gamedata/menu/elements/level14.tpk.yaml",
+    "clean_sha256": "3207e5fdb9060f68e9d9f16428c8a88644ed9430fba2f7c59f6fc8f9639421c3",
+    "mod_sha256": "6777f730c1a8e6aa8d05513991a4937211fe9a139b5d1397d1a02539c474848f",
+    "changes": [
+      {
+        "offset": 1152,
+        "remove": 0,
+        "text": "  - index: 39\r\n    file: \\common\\player_info_snapshot_tinkerbell_01_ui.dds\r\n  - index: 40\r\n    file: \\common\\player_info_snapshot_lilred_01_ui.dds\r\n  - index: 36\r\n    file: \\common\\player_info_snapshot_shrek_01_ui.dds\r\n  - index: 37\r\n    file: \\common\\player_info_snapshot_donkey_01_ui.dds\r\n  - index: 44\r\n    file: \\common\\player_info_snapshot_fiona_01_ui.dds\r\n"
+      }
+    ]
+  },
+  {
+    "platform": "Steam",
+    "path": "gamedata/menu/elements/level15.tpk.yaml",
+    "clean_sha256": "bdd3688d938731b3700df11e2b1d4b416497119c000a1e98e32de289e96e48f1",
+    "mod_sha256": "83de04602c2686546e5e47c5651ca6415ab20e061d154c981717a3e9bf25136f",
+    "changes": [
+      {
+        "offset": 972,
+        "remove": 0,
+        "text": "  - index: 39\r\n    file: \\common\\player_info_snapshot_tinkerbell_01_ui.dds\r\n  - index: 40\r\n    file: \\common\\player_info_snapshot_lilred_01_ui.dds\r\n  - index: 41\r\n    file: \\common\\player_info_snapshot_handsomeshrek_01_ui.dds\r\n  - index: 45\r\n    file: \\common\\player_info_snapshot_wolf_01_ui.dds\r\n  - index: 38\r\n    file: \\common\\player_info_snapshot_gingerbread_01_ui.dds\r\n"
+      }
+    ]
+  },
+  {
+    "platform": "Steam",
+    "path": "gamedata/menu/elements/level24.tpk.yaml",
+    "clean_sha256": "e6fbfc2efb0be7a77065c6c80e8868d87076375d5d71e2180a2f843508bc6660",
+    "mod_sha256": "e2764056c61a47dbf08ed51913a21d6f603a55b9353bb7986661a9231072f96d",
+    "changes": [
+      {
+        "offset": 692,
+        "remove": 56,
+        "text": "    file: \\common\\player_info_snapshot_fiona_01_ui.dds\n  - index: 38\n    file: \\common\\player_info_snapshot_gingerbread_01_ui.dds\n  - index: 40\n    file: \\common\\player_info_snapshot_lilred_01_ui.dds\n  - index: 42\n    file: \\common\\player_info_snapshot_pussnboots_01_ui.dds\n  - index: 45\n    file: \\common\\player_info_snapshot_wolf_01_ui.dds\n  - index: 41\n    file: \\common\\player_info_snapshot_handsomeshrek_01_ui.dds\n"
+      }
+    ]
+  },
+  {
+    "platform": "Epic",
+    "path": "gamedata/localization/menu.csv",
+    "clean_sha256": "503bace63a0f833589ce0b1eaf0ff631e5ba9eb0099145448d044867d111efb5",
+    "mod_sha256": "4b96c4eba721bb25235ea79548c0fc4531f944d762c6b13dec53f86b4f6ecc5e",
+    "changes": [
+      {
+        "offset": 231518,
+        "remove": 68,
+        "text": "DriverMessageContinueExit,Do you want to continue anyway?,,,,,,,,,,,\r\nSwapTeamMenu,Swap Team,Swap Team,Swap Team,Swap Team,Swap Team,Swap Team,Swap Team,Swap Team,Swap Team,Swap Team,Swap Team,Swap Team\r\nTeamSwapSettings,Swap Settings,Swap Settings,Swap Settings,Swap Settings,Swap Settings,Swap Settings,Swap Settings,Swap Settings,Swap Settings,Swap Settings,Swap Settings,Swap Settings\r\nFairyShieldSpecialSet,Fairy Shield Special:,Fairy Shield Special:,Fairy Shield Special:,Fairy Shield Special:,Fairy Shield Special:,Fairy Shield Special:,Fairy Shield Special:,Fairy Shield Special:,Fairy Shield Special:,Fairy Shield Special:,Fairy Shield Special:,Fairy Shield Special:\r\nFairyShieldCharacterInfo_14,Special: Shield allies and float enemies,Special: Shield allies and float enemies,Special: Shield allies and float enemies,Special: Shield allies and float enemies,Special: Shield allies and float enemies,Special: Shield allies and float enemies,Special: Shield allies and float enemies,Special: Shield allies and float enemies,Special: Shield allies and float enemies,Special: Shield allies and float enemies,Special: Shield allies and float enemies,Special: Shield allies and float enemies\r\nHideCharacterPortraitsSet,Hide Character Portraits:,Hide Character Portraits:,Hide Character Portraits:,Hide Character Portraits:,Hide Character Portraits:,Hide Character Portraits:,Hide Character Portraits:,Hide Character Portraits:,Hide Character Portraits:,Hide Character Portraits:,Hide Character Portraits:,Hide Character Portraits:\r\n"
+      }
+    ]
+  },
+  {
+    "platform": "Epic",
+    "path": "gamedata/menu/elements/level1.tpk.yaml",
+    "clean_sha256": "bffcb6243d2e427356283fde844e224349b065a8c4e494d50a822b74bb39a736",
+    "mod_sha256": "bfcb4e6ecf78bb2dec25b7f6f7f58d6b1a433e9003892a97f0799326ee0d563d",
+    "changes": [
+      {
+        "offset": 1127,
+        "remove": 0,
+        "text": "  - index: 39\r\n    file: \\common\\player_info_snapshot_tinkerbell_01_ui.dds\r\n  - index: 40\r\n    file: \\common\\player_info_snapshot_lilred_01_ui.dds\r\n  - index: 41\r\n    file: \\common\\player_info_snapshot_handsomeshrek_01_ui.dds\r\n  - index: 45\r\n    file: \\common\\player_info_snapshot_wolf_01_ui.dds\r\n  - index: 42\r\n    file: \\common\\player_info_snapshot_pussnboots_01_ui.dds\r\n"
+      }
+    ]
+  },
+  {
+    "platform": "Epic",
+    "path": "gamedata/menu/elements/level2.tpk.yaml",
+    "clean_sha256": "e85ae0f9b00f0a99242105d5825c019d0d78852c0bf8fdafaa153d797c26546c",
+    "mod_sha256": "5abe76b77abc0faeb1ce1a163c3e67714e9e477bfc32b3e5ffd8d7cbca0e9bba",
+    "changes": [
+      {
+        "offset": 1172,
+        "remove": 0,
+        "text": "  - index: 39\r\n    file: \\common\\player_info_snapshot_tinkerbell_01_ui.dds\r\n  - index: 41\r\n    file: \\common\\player_info_snapshot_handsomeshrek_01_ui.dds\r\n  - index: 45\r\n    file: \\common\\player_info_snapshot_wolf_01_ui.dds\r\n  - index: 42\r\n    file: \\common\\player_info_snapshot_pussnboots_01_ui.dds\r\n  - index: 38\r\n    file: \\common\\player_info_snapshot_gingerbread_01_ui.dds\r\n"
+      }
+    ]
+  },
+  {
+    "platform": "Epic",
+    "path": "gamedata/menu/elements/level3.tpk.yaml",
+    "clean_sha256": "1832b376259d62be4b7bfcc16930347e93336fd3bdcb44531ce79be48fbaa253",
+    "mod_sha256": "b3802ad442c40ddd5bcc9b356b807312423d52a753cca9fde94e27b5223aa0d9",
+    "changes": [
+      {
+        "offset": 1122,
+        "remove": 0,
+        "text": "  - index: 39\r\n    file: \\common\\player_info_snapshot_tinkerbell_01_ui.dds\r\n  - index: 41\r\n    file: \\common\\player_info_snapshot_handsomeshrek_01_ui.dds\r\n  - index: 45\r\n    file: \\common\\player_info_snapshot_wolf_01_ui.dds\r\n  - index: 42\r\n    file: \\common\\player_info_snapshot_pussnboots_01_ui.dds\r\n  - index: 38\r\n    file: \\common\\player_info_snapshot_gingerbread_01_ui.dds\r\n"
+      }
+    ]
+  },
+  {
+    "platform": "Epic",
+    "path": "gamedata/menu/elements/level5.tpk.yaml",
+    "clean_sha256": "136901adecdb378a5aa174f918d947a6843f6055c7a95b8603b0cb7f144caba3",
+    "mod_sha256": "76b9b5aa256f25d928823561927e5934083c7e1bfc2cdb6e7551d8dc83be0dd7",
+    "changes": [
+      {
+        "offset": 1132,
+        "remove": 0,
+        "text": "  - index: 39\r\n    file: \\common\\player_info_snapshot_tinkerbell_01_ui.dds\r\n  - index: 40\r\n    file: \\common\\player_info_snapshot_lilred_01_ui.dds\r\n  - index: 41\r\n    file: \\common\\player_info_snapshot_handsomeshrek_01_ui.dds\r\n  - index: 45\r\n    file: \\common\\player_info_snapshot_wolf_01_ui.dds\r\n  - index: 44\r\n    file: \\common\\player_info_snapshot_fiona_01_ui.dds\r\n"
+      }
+    ]
+  },
+  {
+    "platform": "Epic",
+    "path": "gamedata/menu/elements/level6.tpk.yaml",
+    "clean_sha256": "9c46ab9283e7ea3f76ee0d15c02527ebe2a0751020c6718e4858c2e870fce882",
+    "mod_sha256": "b54d864a7681ff3d20c35edfe209aff2b90910a0973ab628297da158e658c1b9",
+    "changes": [
+      {
+        "offset": 1132,
+        "remove": 0,
+        "text": "  - index: 39\r\n    file: \\common\\player_info_snapshot_tinkerbell_01_ui.dds\r\n  - index: 40\r\n    file: \\common\\player_info_snapshot_lilred_01_ui.dds\r\n  - index: 41\r\n    file: \\common\\player_info_snapshot_handsomeshrek_01_ui.dds\r\n  - index: 45\r\n    file: \\common\\player_info_snapshot_wolf_01_ui.dds\r\n  - index: 44\r\n    file: \\common\\player_info_snapshot_fiona_01_ui.dds\r\n"
+      }
+    ]
+  },
+  {
+    "platform": "Epic",
+    "path": "gamedata/menu/elements/level7.tpk.yaml",
+    "clean_sha256": "73be78e398c03cefe36cfc9b920ace5aff66a24ae617154d15c9fed5d381c8d6",
+    "mod_sha256": "1eb65f4b6115da7e6f1f8782513f7f629fef480ef6736b4d3b21258542e45148",
+    "changes": [
+      {
+        "offset": 1127,
+        "remove": 0,
+        "text": "  - index: 39\r\n    file: \\common\\player_info_snapshot_tinkerbell_01_ui.dds\r\n  - index: 41\r\n    file: \\common\\player_info_snapshot_handsomeshrek_01_ui.dds\r\n  - index: 45\r\n    file: \\common\\player_info_snapshot_wolf_01_ui.dds\r\n  - index: 38\r\n    file: \\common\\player_info_snapshot_gingerbread_01_ui.dds\r\n  - index: 44\r\n    file: \\common\\player_info_snapshot_fiona_01_ui.dds\r\n"
+      }
+    ]
+  },
+  {
+    "platform": "Epic",
+    "path": "gamedata/menu/elements/level11.tpk.yaml",
+    "clean_sha256": "b6b6cc1ac99a273b813e643eae1c7814b427aee166c6612de8bd8ad112c0ff89",
+    "mod_sha256": "1246cdc0db8db13c4cad8c156f6219b52dcba5f53198aa4139563d0329d31604",
+    "changes": [
+      {
+        "offset": 1138,
+        "remove": 0,
+        "text": "  - index: 41\r\n    file: \\common\\player_info_snapshot_handsomeshrek_01_ui.dds\r\n  - index: 42\r\n    file: \\common\\player_info_snapshot_pussnboots_01_ui.dds\r\n  - index: 36\r\n    file: \\common\\player_info_snapshot_shrek_01_ui.dds\r\n  - index: 37\r\n    file: \\common\\player_info_snapshot_donkey_01_ui.dds\r\n  - index: 44\r\n    file: \\common\\player_info_snapshot_fiona_01_ui.dds\r\n"
+      }
+    ]
+  },
+  {
+    "platform": "Epic",
+    "path": "gamedata/menu/elements/level13.tpk.yaml",
+    "clean_sha256": "156874f1ca902723a3b30bff501510905d50db7eb0b247dda648c8b6565926b3",
+    "mod_sha256": "e06327f00b8f2dbe0e121971a5fbaa668c9fa19392804b8b8d04bc67a105a249",
+    "changes": [
+      {
+        "offset": 1150,
+        "remove": 0,
+        "text": "  - index: 39\r\n    file: \\common\\player_info_snapshot_tinkerbell_01_ui.dds\r\n  - index: 40\r\n    file: \\common\\player_info_snapshot_lilred_01_ui.dds\r\n  - index: 36\r\n    file: \\common\\player_info_snapshot_shrek_01_ui.dds\r\n  - index: 37\r\n    file: \\common\\player_info_snapshot_donkey_01_ui.dds\r\n  - index: 44\r\n    file: \\common\\player_info_snapshot_fiona_01_ui.dds\r\n"
+      }
+    ]
+  },
+  {
+    "platform": "Epic",
+    "path": "gamedata/menu/elements/level14.tpk.yaml",
+    "clean_sha256": "3207e5fdb9060f68e9d9f16428c8a88644ed9430fba2f7c59f6fc8f9639421c3",
+    "mod_sha256": "6777f730c1a8e6aa8d05513991a4937211fe9a139b5d1397d1a02539c474848f",
+    "changes": [
+      {
+        "offset": 1152,
+        "remove": 0,
+        "text": "  - index: 39\r\n    file: \\common\\player_info_snapshot_tinkerbell_01_ui.dds\r\n  - index: 40\r\n    file: \\common\\player_info_snapshot_lilred_01_ui.dds\r\n  - index: 36\r\n    file: \\common\\player_info_snapshot_shrek_01_ui.dds\r\n  - index: 37\r\n    file: \\common\\player_info_snapshot_donkey_01_ui.dds\r\n  - index: 44\r\n    file: \\common\\player_info_snapshot_fiona_01_ui.dds\r\n"
+      }
+    ]
+  },
+  {
+    "platform": "Epic",
+    "path": "gamedata/menu/elements/level15.tpk.yaml",
+    "clean_sha256": "bdd3688d938731b3700df11e2b1d4b416497119c000a1e98e32de289e96e48f1",
+    "mod_sha256": "83de04602c2686546e5e47c5651ca6415ab20e061d154c981717a3e9bf25136f",
+    "changes": [
+      {
+        "offset": 972,
+        "remove": 0,
+        "text": "  - index: 39\r\n    file: \\common\\player_info_snapshot_tinkerbell_01_ui.dds\r\n  - index: 40\r\n    file: \\common\\player_info_snapshot_lilred_01_ui.dds\r\n  - index: 41\r\n    file: \\common\\player_info_snapshot_handsomeshrek_01_ui.dds\r\n  - index: 45\r\n    file: \\common\\player_info_snapshot_wolf_01_ui.dds\r\n  - index: 38\r\n    file: \\common\\player_info_snapshot_gingerbread_01_ui.dds\r\n"
+      }
+    ]
+  },
+  {
+    "platform": "Epic",
+    "path": "gamedata/menu/elements/level24.tpk.yaml",
+    "clean_sha256": "e6fbfc2efb0be7a77065c6c80e8868d87076375d5d71e2180a2f843508bc6660",
+    "mod_sha256": "e2764056c61a47dbf08ed51913a21d6f603a55b9353bb7986661a9231072f96d",
+    "changes": [
+      {
+        "offset": 692,
+        "remove": 56,
+        "text": "    file: \\common\\player_info_snapshot_fiona_01_ui.dds\n  - index: 38\n    file: \\common\\player_info_snapshot_gingerbread_01_ui.dds\n  - index: 40\n    file: \\common\\player_info_snapshot_lilred_01_ui.dds\n  - index: 42\n    file: \\common\\player_info_snapshot_pussnboots_01_ui.dds\n  - index: 45\n    file: \\common\\player_info_snapshot_wolf_01_ui.dds\n  - index: 41\n    file: \\common\\player_info_snapshot_handsomeshrek_01_ui.dds\n"
+      }
+    ]
+  },
+  {
+    "platform": "Steam26880364",
+    "path": "gamedata/localization/menu.csv",
+    "clean_sha256": "f073b40cbe480b2812fdc7c4574c823e4cfd29d644d51da1525aa067d4d9f589",
+    "mod_sha256": "443800841cf29b79c22fd9125da54603edf8425cc57c835cf96a0aacddfde694",
+    "changes": [
+      {
+        "offset": 234395,
+        "remove": 560,
+        "text": "ConnectionClosedMsg,Your connection has been forcefully closed.,Je verbinding moest worden verbroken.,Ta connexion a \u00e9t\u00e9 interrompue brutalement.,Deine Verbindung wurde beabsichtigt unterbrochen.,La tua connessione \u00e8 stata chiusa forzatamente.,\u63a5\u7d9a\u304c\u5f37\u5236\u7684\u306b\u9589\u9396\u3055\u308c\u307e\u3057\u305f\u3002,Twoje po\u0142\u0105czenie zosta\u0142o zerwane.,Sua conex\u00e3o foi interrompida abruptamente.,\u0421\u043e\u0435\u0434\u0438\u043d\u0435\u043d\u0438\u0435 \u0431\u044b\u043b\u043e \u043f\u0440\u0438\u043d\u0443\u0434\u0438\u0442\u0435\u043b\u044c\u043d\u043e \u043f\u0440\u0435\u0440\u0432\u0430\u043d\u043e.,\u60a8\u7684\u8fde\u63a5\u5df2\u88ab\u5f3a\u5236\u65ad\u5f00\u3002,Se ha forzado el cierre de la conexi\u00f3n.,Din anslutning har tvingats st\u00e4nga.\r\nSwapTeamMenu,Swap Team,Swap Team,Swap Team,Swap Team,Swap Team,Swap Team,Swap Team,Swap Team,Swap Team,Swap Team,Swap Team,Swap Team\r\nTeamSwapSettings,Swap Settings,Swap Settings,Swap Settings,Swap Settings,Swap Settings,Swap Settings,Swap Settings,Swap Settings,Swap Settings,Swap Settings,Swap Settings,Swap Settings\r\nFairyShieldSpecialSet,Fairy Shield Special:,Fairy Shield Special:,Fairy Shield Special:,Fairy Shield Special:,Fairy Shield Special:,Fairy Shield Special:,Fairy Shield Special:,Fairy Shield Special:,Fairy Shield Special:,Fairy Shield Special:,Fairy Shield Special:,Fairy Shield Special:\r\nFairyShieldCharacterInfo_14,Special: Shield allies and float enemies,Special: Shield allies and float enemies,Special: Shield allies and float enemies,Special: Shield allies and float enemies,Special: Shield allies and float enemies,Special: Shield allies and float enemies,Special: Shield allies and float enemies,Special: Shield allies and float enemies,Special: Shield allies and float enemies,Special: Shield allies and float enemies,Special: Shield allies and float enemies,Special: Shield allies and float enemies\r\nHideCharacterPortraitsSet,Hide Character Portraits:,Hide Character Portraits:,Hide Character Portraits:,Hide Character Portraits:,Hide Character Portraits:,Hide Character Portraits:,Hide Character Portraits:,Hide Character Portraits:,Hide Character Portraits:,Hide Character Portraits:,Hide Character Portraits:,Hide Character Portraits:\r\n"
+      }
+    ]
+  },
+  {
+    "platform": "Steam26880364",
+    "path": "gamedata/menu/elements/level1.tpk.yaml",
+    "clean_sha256": "bffcb6243d2e427356283fde844e224349b065a8c4e494d50a822b74bb39a736",
+    "mod_sha256": "bfcb4e6ecf78bb2dec25b7f6f7f58d6b1a433e9003892a97f0799326ee0d563d",
+    "changes": [
+      {
+        "offset": 1127,
+        "remove": 0,
+        "text": "  - index: 39\r\n    file: \\common\\player_info_snapshot_tinkerbell_01_ui.dds\r\n  - index: 40\r\n    file: \\common\\player_info_snapshot_lilred_01_ui.dds\r\n  - index: 41\r\n    file: \\common\\player_info_snapshot_handsomeshrek_01_ui.dds\r\n  - index: 45\r\n    file: \\common\\player_info_snapshot_wolf_01_ui.dds\r\n  - index: 42\r\n    file: \\common\\player_info_snapshot_pussnboots_01_ui.dds\r\n"
+      }
+    ]
+  },
+  {
+    "platform": "Steam26880364",
+    "path": "gamedata/menu/elements/level2.tpk.yaml",
+    "clean_sha256": "e85ae0f9b00f0a99242105d5825c019d0d78852c0bf8fdafaa153d797c26546c",
+    "mod_sha256": "5abe76b77abc0faeb1ce1a163c3e67714e9e477bfc32b3e5ffd8d7cbca0e9bba",
+    "changes": [
+      {
+        "offset": 1172,
+        "remove": 0,
+        "text": "  - index: 39\r\n    file: \\common\\player_info_snapshot_tinkerbell_01_ui.dds\r\n  - index: 41\r\n    file: \\common\\player_info_snapshot_handsomeshrek_01_ui.dds\r\n  - index: 45\r\n    file: \\common\\player_info_snapshot_wolf_01_ui.dds\r\n  - index: 42\r\n    file: \\common\\player_info_snapshot_pussnboots_01_ui.dds\r\n  - index: 38\r\n    file: \\common\\player_info_snapshot_gingerbread_01_ui.dds\r\n"
+      }
+    ]
+  },
+  {
+    "platform": "Steam26880364",
+    "path": "gamedata/menu/elements/level3.tpk.yaml",
+    "clean_sha256": "1832b376259d62be4b7bfcc16930347e93336fd3bdcb44531ce79be48fbaa253",
+    "mod_sha256": "b3802ad442c40ddd5bcc9b356b807312423d52a753cca9fde94e27b5223aa0d9",
+    "changes": [
+      {
+        "offset": 1122,
+        "remove": 0,
+        "text": "  - index: 39\r\n    file: \\common\\player_info_snapshot_tinkerbell_01_ui.dds\r\n  - index: 41\r\n    file: \\common\\player_info_snapshot_handsomeshrek_01_ui.dds\r\n  - index: 45\r\n    file: \\common\\player_info_snapshot_wolf_01_ui.dds\r\n  - index: 42\r\n    file: \\common\\player_info_snapshot_pussnboots_01_ui.dds\r\n  - index: 38\r\n    file: \\common\\player_info_snapshot_gingerbread_01_ui.dds\r\n"
+      }
+    ]
+  },
+  {
+    "platform": "Steam26880364",
+    "path": "gamedata/menu/elements/level5.tpk.yaml",
+    "clean_sha256": "136901adecdb378a5aa174f918d947a6843f6055c7a95b8603b0cb7f144caba3",
+    "mod_sha256": "76b9b5aa256f25d928823561927e5934083c7e1bfc2cdb6e7551d8dc83be0dd7",
+    "changes": [
+      {
+        "offset": 1132,
+        "remove": 0,
+        "text": "  - index: 39\r\n    file: \\common\\player_info_snapshot_tinkerbell_01_ui.dds\r\n  - index: 40\r\n    file: \\common\\player_info_snapshot_lilred_01_ui.dds\r\n  - index: 41\r\n    file: \\common\\player_info_snapshot_handsomeshrek_01_ui.dds\r\n  - index: 45\r\n    file: \\common\\player_info_snapshot_wolf_01_ui.dds\r\n  - index: 44\r\n    file: \\common\\player_info_snapshot_fiona_01_ui.dds\r\n"
+      }
+    ]
+  },
+  {
+    "platform": "Steam26880364",
+    "path": "gamedata/menu/elements/level6.tpk.yaml",
+    "clean_sha256": "9c46ab9283e7ea3f76ee0d15c02527ebe2a0751020c6718e4858c2e870fce882",
+    "mod_sha256": "b54d864a7681ff3d20c35edfe209aff2b90910a0973ab628297da158e658c1b9",
+    "changes": [
+      {
+        "offset": 1132,
+        "remove": 0,
+        "text": "  - index: 39\r\n    file: \\common\\player_info_snapshot_tinkerbell_01_ui.dds\r\n  - index: 40\r\n    file: \\common\\player_info_snapshot_lilred_01_ui.dds\r\n  - index: 41\r\n    file: \\common\\player_info_snapshot_handsomeshrek_01_ui.dds\r\n  - index: 45\r\n    file: \\common\\player_info_snapshot_wolf_01_ui.dds\r\n  - index: 44\r\n    file: \\common\\player_info_snapshot_fiona_01_ui.dds\r\n"
+      }
+    ]
+  },
+  {
+    "platform": "Steam26880364",
+    "path": "gamedata/menu/elements/level7.tpk.yaml",
+    "clean_sha256": "73be78e398c03cefe36cfc9b920ace5aff66a24ae617154d15c9fed5d381c8d6",
+    "mod_sha256": "1eb65f4b6115da7e6f1f8782513f7f629fef480ef6736b4d3b21258542e45148",
+    "changes": [
+      {
+        "offset": 1127,
+        "remove": 0,
+        "text": "  - index: 39\r\n    file: \\common\\player_info_snapshot_tinkerbell_01_ui.dds\r\n  - index: 41\r\n    file: \\common\\player_info_snapshot_handsomeshrek_01_ui.dds\r\n  - index: 45\r\n    file: \\common\\player_info_snapshot_wolf_01_ui.dds\r\n  - index: 38\r\n    file: \\common\\player_info_snapshot_gingerbread_01_ui.dds\r\n  - index: 44\r\n    file: \\common\\player_info_snapshot_fiona_01_ui.dds\r\n"
+      }
+    ]
+  },
+  {
+    "platform": "Steam26880364",
+    "path": "gamedata/menu/elements/level11.tpk.yaml",
+    "clean_sha256": "b6b6cc1ac99a273b813e643eae1c7814b427aee166c6612de8bd8ad112c0ff89",
+    "mod_sha256": "1246cdc0db8db13c4cad8c156f6219b52dcba5f53198aa4139563d0329d31604",
+    "changes": [
+      {
+        "offset": 1138,
+        "remove": 0,
+        "text": "  - index: 41\r\n    file: \\common\\player_info_snapshot_handsomeshrek_01_ui.dds\r\n  - index: 42\r\n    file: \\common\\player_info_snapshot_pussnboots_01_ui.dds\r\n  - index: 36\r\n    file: \\common\\player_info_snapshot_shrek_01_ui.dds\r\n  - index: 37\r\n    file: \\common\\player_info_snapshot_donkey_01_ui.dds\r\n  - index: 44\r\n    file: \\common\\player_info_snapshot_fiona_01_ui.dds\r\n"
+      }
+    ]
+  },
+  {
+    "platform": "Steam26880364",
+    "path": "gamedata/menu/elements/level13.tpk.yaml",
+    "clean_sha256": "156874f1ca902723a3b30bff501510905d50db7eb0b247dda648c8b6565926b3",
+    "mod_sha256": "e06327f00b8f2dbe0e121971a5fbaa668c9fa19392804b8b8d04bc67a105a249",
+    "changes": [
+      {
+        "offset": 1150,
+        "remove": 0,
+        "text": "  - index: 39\r\n    file: \\common\\player_info_snapshot_tinkerbell_01_ui.dds\r\n  - index: 40\r\n    file: \\common\\player_info_snapshot_lilred_01_ui.dds\r\n  - index: 36\r\n    file: \\common\\player_info_snapshot_shrek_01_ui.dds\r\n  - index: 37\r\n    file: \\common\\player_info_snapshot_donkey_01_ui.dds\r\n  - index: 44\r\n    file: \\common\\player_info_snapshot_fiona_01_ui.dds\r\n"
+      }
+    ]
+  },
+  {
+    "platform": "Steam26880364",
+    "path": "gamedata/menu/elements/level14.tpk.yaml",
+    "clean_sha256": "3207e5fdb9060f68e9d9f16428c8a88644ed9430fba2f7c59f6fc8f9639421c3",
+    "mod_sha256": "6777f730c1a8e6aa8d05513991a4937211fe9a139b5d1397d1a02539c474848f",
+    "changes": [
+      {
+        "offset": 1152,
+        "remove": 0,
+        "text": "  - index: 39\r\n    file: \\common\\player_info_snapshot_tinkerbell_01_ui.dds\r\n  - index: 40\r\n    file: \\common\\player_info_snapshot_lilred_01_ui.dds\r\n  - index: 36\r\n    file: \\common\\player_info_snapshot_shrek_01_ui.dds\r\n  - index: 37\r\n    file: \\common\\player_info_snapshot_donkey_01_ui.dds\r\n  - index: 44\r\n    file: \\common\\player_info_snapshot_fiona_01_ui.dds\r\n"
+      }
+    ]
+  },
+  {
+    "platform": "Steam26880364",
+    "path": "gamedata/menu/elements/level15.tpk.yaml",
+    "clean_sha256": "bdd3688d938731b3700df11e2b1d4b416497119c000a1e98e32de289e96e48f1",
+    "mod_sha256": "83de04602c2686546e5e47c5651ca6415ab20e061d154c981717a3e9bf25136f",
+    "changes": [
+      {
+        "offset": 972,
+        "remove": 0,
+        "text": "  - index: 39\r\n    file: \\common\\player_info_snapshot_tinkerbell_01_ui.dds\r\n  - index: 40\r\n    file: \\common\\player_info_snapshot_lilred_01_ui.dds\r\n  - index: 41\r\n    file: \\common\\player_info_snapshot_handsomeshrek_01_ui.dds\r\n  - index: 45\r\n    file: \\common\\player_info_snapshot_wolf_01_ui.dds\r\n  - index: 38\r\n    file: \\common\\player_info_snapshot_gingerbread_01_ui.dds\r\n"
+      }
+    ]
+  },
+  {
+    "platform": "Steam26880364",
+    "path": "gamedata/menu/elements/level24.tpk.yaml",
+    "clean_sha256": "e6fbfc2efb0be7a77065c6c80e8868d87076375d5d71e2180a2f843508bc6660",
+    "mod_sha256": "e2764056c61a47dbf08ed51913a21d6f603a55b9353bb7986661a9231072f96d",
+    "changes": [
+      {
+        "offset": 692,
+        "remove": 56,
+        "text": "    file: \\common\\player_info_snapshot_fiona_01_ui.dds\n  - index: 38\n    file: \\common\\player_info_snapshot_gingerbread_01_ui.dds\n  - index: 40\n    file: \\common\\player_info_snapshot_lilred_01_ui.dds\n  - index: 42\n    file: \\common\\player_info_snapshot_pussnboots_01_ui.dds\n  - index: 45\n    file: \\common\\player_info_snapshot_wolf_01_ui.dds\n  - index: 41\n    file: \\common\\player_info_snapshot_handsomeshrek_01_ui.dds\n"
+      }
+    ]
+  },
+  {
+    "platform": "Epic593174",
+    "path": "gamedata/localization/menu.csv",
+    "clean_sha256": "f073b40cbe480b2812fdc7c4574c823e4cfd29d644d51da1525aa067d4d9f589",
+    "mod_sha256": "443800841cf29b79c22fd9125da54603edf8425cc57c835cf96a0aacddfde694",
+    "changes": [
+      {
+        "offset": 234395,
+        "remove": 560,
+        "text": "ConnectionClosedMsg,Your connection has been forcefully closed.,Je verbinding moest worden verbroken.,Ta connexion a \u00e9t\u00e9 interrompue brutalement.,Deine Verbindung wurde beabsichtigt unterbrochen.,La tua connessione \u00e8 stata chiusa forzatamente.,\u63a5\u7d9a\u304c\u5f37\u5236\u7684\u306b\u9589\u9396\u3055\u308c\u307e\u3057\u305f\u3002,Twoje po\u0142\u0105czenie zosta\u0142o zerwane.,Sua conex\u00e3o foi interrompida abruptamente.,\u0421\u043e\u0435\u0434\u0438\u043d\u0435\u043d\u0438\u0435 \u0431\u044b\u043b\u043e \u043f\u0440\u0438\u043d\u0443\u0434\u0438\u0442\u0435\u043b\u044c\u043d\u043e \u043f\u0440\u0435\u0440\u0432\u0430\u043d\u043e.,\u60a8\u7684\u8fde\u63a5\u5df2\u88ab\u5f3a\u5236\u65ad\u5f00\u3002,Se ha forzado el cierre de la conexi\u00f3n.,Din anslutning har tvingats st\u00e4nga.\r\nSwapTeamMenu,Swap Team,Swap Team,Swap Team,Swap Team,Swap Team,Swap Team,Swap Team,Swap Team,Swap Team,Swap Team,Swap Team,Swap Team\r\nTeamSwapSettings,Swap Settings,Swap Settings,Swap Settings,Swap Settings,Swap Settings,Swap Settings,Swap Settings,Swap Settings,Swap Settings,Swap Settings,Swap Settings,Swap Settings\r\nFairyShieldSpecialSet,Fairy Shield Special:,Fairy Shield Special:,Fairy Shield Special:,Fairy Shield Special:,Fairy Shield Special:,Fairy Shield Special:,Fairy Shield Special:,Fairy Shield Special:,Fairy Shield Special:,Fairy Shield Special:,Fairy Shield Special:,Fairy Shield Special:\r\nFairyShieldCharacterInfo_14,Special: Shield allies and float enemies,Special: Shield allies and float enemies,Special: Shield allies and float enemies,Special: Shield allies and float enemies,Special: Shield allies and float enemies,Special: Shield allies and float enemies,Special: Shield allies and float enemies,Special: Shield allies and float enemies,Special: Shield allies and float enemies,Special: Shield allies and float enemies,Special: Shield allies and float enemies,Special: Shield allies and float enemies\r\nHideCharacterPortraitsSet,Hide Character Portraits:,Hide Character Portraits:,Hide Character Portraits:,Hide Character Portraits:,Hide Character Portraits:,Hide Character Portraits:,Hide Character Portraits:,Hide Character Portraits:,Hide Character Portraits:,Hide Character Portraits:,Hide Character Portraits:,Hide Character Portraits:\r\n"
+      }
+    ]
+  },
+  {
+    "platform": "Epic593174",
+    "path": "gamedata/menu/elements/level1.tpk.yaml",
+    "clean_sha256": "bffcb6243d2e427356283fde844e224349b065a8c4e494d50a822b74bb39a736",
+    "mod_sha256": "bfcb4e6ecf78bb2dec25b7f6f7f58d6b1a433e9003892a97f0799326ee0d563d",
+    "changes": [
+      {
+        "offset": 1127,
+        "remove": 0,
+        "text": "  - index: 39\r\n    file: \\common\\player_info_snapshot_tinkerbell_01_ui.dds\r\n  - index: 40\r\n    file: \\common\\player_info_snapshot_lilred_01_ui.dds\r\n  - index: 41\r\n    file: \\common\\player_info_snapshot_handsomeshrek_01_ui.dds\r\n  - index: 45\r\n    file: \\common\\player_info_snapshot_wolf_01_ui.dds\r\n  - index: 42\r\n    file: \\common\\player_info_snapshot_pussnboots_01_ui.dds\r\n"
+      }
+    ]
+  },
+  {
+    "platform": "Epic593174",
+    "path": "gamedata/menu/elements/level2.tpk.yaml",
+    "clean_sha256": "e85ae0f9b00f0a99242105d5825c019d0d78852c0bf8fdafaa153d797c26546c",
+    "mod_sha256": "5abe76b77abc0faeb1ce1a163c3e67714e9e477bfc32b3e5ffd8d7cbca0e9bba",
+    "changes": [
+      {
+        "offset": 1172,
+        "remove": 0,
+        "text": "  - index: 39\r\n    file: \\common\\player_info_snapshot_tinkerbell_01_ui.dds\r\n  - index: 41\r\n    file: \\common\\player_info_snapshot_handsomeshrek_01_ui.dds\r\n  - index: 45\r\n    file: \\common\\player_info_snapshot_wolf_01_ui.dds\r\n  - index: 42\r\n    file: \\common\\player_info_snapshot_pussnboots_01_ui.dds\r\n  - index: 38\r\n    file: \\common\\player_info_snapshot_gingerbread_01_ui.dds\r\n"
+      }
+    ]
+  },
+  {
+    "platform": "Epic593174",
+    "path": "gamedata/menu/elements/level3.tpk.yaml",
+    "clean_sha256": "1832b376259d62be4b7bfcc16930347e93336fd3bdcb44531ce79be48fbaa253",
+    "mod_sha256": "b3802ad442c40ddd5bcc9b356b807312423d52a753cca9fde94e27b5223aa0d9",
+    "changes": [
+      {
+        "offset": 1122,
+        "remove": 0,
+        "text": "  - index: 39\r\n    file: \\common\\player_info_snapshot_tinkerbell_01_ui.dds\r\n  - index: 41\r\n    file: \\common\\player_info_snapshot_handsomeshrek_01_ui.dds\r\n  - index: 45\r\n    file: \\common\\player_info_snapshot_wolf_01_ui.dds\r\n  - index: 42\r\n    file: \\common\\player_info_snapshot_pussnboots_01_ui.dds\r\n  - index: 38\r\n    file: \\common\\player_info_snapshot_gingerbread_01_ui.dds\r\n"
+      }
+    ]
+  },
+  {
+    "platform": "Epic593174",
+    "path": "gamedata/menu/elements/level5.tpk.yaml",
+    "clean_sha256": "136901adecdb378a5aa174f918d947a6843f6055c7a95b8603b0cb7f144caba3",
+    "mod_sha256": "76b9b5aa256f25d928823561927e5934083c7e1bfc2cdb6e7551d8dc83be0dd7",
+    "changes": [
+      {
+        "offset": 1132,
+        "remove": 0,
+        "text": "  - index: 39\r\n    file: \\common\\player_info_snapshot_tinkerbell_01_ui.dds\r\n  - index: 40\r\n    file: \\common\\player_info_snapshot_lilred_01_ui.dds\r\n  - index: 41\r\n    file: \\common\\player_info_snapshot_handsomeshrek_01_ui.dds\r\n  - index: 45\r\n    file: \\common\\player_info_snapshot_wolf_01_ui.dds\r\n  - index: 44\r\n    file: \\common\\player_info_snapshot_fiona_01_ui.dds\r\n"
+      }
+    ]
+  },
+  {
+    "platform": "Epic593174",
+    "path": "gamedata/menu/elements/level6.tpk.yaml",
+    "clean_sha256": "9c46ab9283e7ea3f76ee0d15c02527ebe2a0751020c6718e4858c2e870fce882",
+    "mod_sha256": "b54d864a7681ff3d20c35edfe209aff2b90910a0973ab628297da158e658c1b9",
+    "changes": [
+      {
+        "offset": 1132,
+        "remove": 0,
+        "text": "  - index: 39\r\n    file: \\common\\player_info_snapshot_tinkerbell_01_ui.dds\r\n  - index: 40\r\n    file: \\common\\player_info_snapshot_lilred_01_ui.dds\r\n  - index: 41\r\n    file: \\common\\player_info_snapshot_handsomeshrek_01_ui.dds\r\n  - index: 45\r\n    file: \\common\\player_info_snapshot_wolf_01_ui.dds\r\n  - index: 44\r\n    file: \\common\\player_info_snapshot_fiona_01_ui.dds\r\n"
+      }
+    ]
+  },
+  {
+    "platform": "Epic593174",
+    "path": "gamedata/menu/elements/level7.tpk.yaml",
+    "clean_sha256": "73be78e398c03cefe36cfc9b920ace5aff66a24ae617154d15c9fed5d381c8d6",
+    "mod_sha256": "1eb65f4b6115da7e6f1f8782513f7f629fef480ef6736b4d3b21258542e45148",
+    "changes": [
+      {
+        "offset": 1127,
+        "remove": 0,
+        "text": "  - index: 39\r\n    file: \\common\\player_info_snapshot_tinkerbell_01_ui.dds\r\n  - index: 41\r\n    file: \\common\\player_info_snapshot_handsomeshrek_01_ui.dds\r\n  - index: 45\r\n    file: \\common\\player_info_snapshot_wolf_01_ui.dds\r\n  - index: 38\r\n    file: \\common\\player_info_snapshot_gingerbread_01_ui.dds\r\n  - index: 44\r\n    file: \\common\\player_info_snapshot_fiona_01_ui.dds\r\n"
+      }
+    ]
+  },
+  {
+    "platform": "Epic593174",
+    "path": "gamedata/menu/elements/level11.tpk.yaml",
+    "clean_sha256": "b6b6cc1ac99a273b813e643eae1c7814b427aee166c6612de8bd8ad112c0ff89",
+    "mod_sha256": "1246cdc0db8db13c4cad8c156f6219b52dcba5f53198aa4139563d0329d31604",
+    "changes": [
+      {
+        "offset": 1138,
+        "remove": 0,
+        "text": "  - index: 41\r\n    file: \\common\\player_info_snapshot_handsomeshrek_01_ui.dds\r\n  - index: 42\r\n    file: \\common\\player_info_snapshot_pussnboots_01_ui.dds\r\n  - index: 36\r\n    file: \\common\\player_info_snapshot_shrek_01_ui.dds\r\n  - index: 37\r\n    file: \\common\\player_info_snapshot_donkey_01_ui.dds\r\n  - index: 44\r\n    file: \\common\\player_info_snapshot_fiona_01_ui.dds\r\n"
+      }
+    ]
+  },
+  {
+    "platform": "Epic593174",
+    "path": "gamedata/menu/elements/level13.tpk.yaml",
+    "clean_sha256": "156874f1ca902723a3b30bff501510905d50db7eb0b247dda648c8b6565926b3",
+    "mod_sha256": "e06327f00b8f2dbe0e121971a5fbaa668c9fa19392804b8b8d04bc67a105a249",
+    "changes": [
+      {
+        "offset": 1150,
+        "remove": 0,
+        "text": "  - index: 39\r\n    file: \\common\\player_info_snapshot_tinkerbell_01_ui.dds\r\n  - index: 40\r\n    file: \\common\\player_info_snapshot_lilred_01_ui.dds\r\n  - index: 36\r\n    file: \\common\\player_info_snapshot_shrek_01_ui.dds\r\n  - index: 37\r\n    file: \\common\\player_info_snapshot_donkey_01_ui.dds\r\n  - index: 44\r\n    file: \\common\\player_info_snapshot_fiona_01_ui.dds\r\n"
+      }
+    ]
+  },
+  {
+    "platform": "Epic593174",
+    "path": "gamedata/menu/elements/level14.tpk.yaml",
+    "clean_sha256": "3207e5fdb9060f68e9d9f16428c8a88644ed9430fba2f7c59f6fc8f9639421c3",
+    "mod_sha256": "6777f730c1a8e6aa8d05513991a4937211fe9a139b5d1397d1a02539c474848f",
+    "changes": [
+      {
+        "offset": 1152,
+        "remove": 0,
+        "text": "  - index: 39\r\n    file: \\common\\player_info_snapshot_tinkerbell_01_ui.dds\r\n  - index: 40\r\n    file: \\common\\player_info_snapshot_lilred_01_ui.dds\r\n  - index: 36\r\n    file: \\common\\player_info_snapshot_shrek_01_ui.dds\r\n  - index: 37\r\n    file: \\common\\player_info_snapshot_donkey_01_ui.dds\r\n  - index: 44\r\n    file: \\common\\player_info_snapshot_fiona_01_ui.dds\r\n"
+      }
+    ]
+  },
+  {
+    "platform": "Epic593174",
+    "path": "gamedata/menu/elements/level15.tpk.yaml",
+    "clean_sha256": "bdd3688d938731b3700df11e2b1d4b416497119c000a1e98e32de289e96e48f1",
+    "mod_sha256": "83de04602c2686546e5e47c5651ca6415ab20e061d154c981717a3e9bf25136f",
+    "changes": [
+      {
+        "offset": 972,
+        "remove": 0,
+        "text": "  - index: 39\r\n    file: \\common\\player_info_snapshot_tinkerbell_01_ui.dds\r\n  - index: 40\r\n    file: \\common\\player_info_snapshot_lilred_01_ui.dds\r\n  - index: 41\r\n    file: \\common\\player_info_snapshot_handsomeshrek_01_ui.dds\r\n  - index: 45\r\n    file: \\common\\player_info_snapshot_wolf_01_ui.dds\r\n  - index: 38\r\n    file: \\common\\player_info_snapshot_gingerbread_01_ui.dds\r\n"
+      }
+    ]
+  },
+  {
+    "platform": "Epic593174",
+    "path": "gamedata/menu/elements/level24.tpk.yaml",
+    "clean_sha256": "e6fbfc2efb0be7a77065c6c80e8868d87076375d5d71e2180a2f843508bc6660",
+    "mod_sha256": "e2764056c61a47dbf08ed51913a21d6f603a55b9353bb7986661a9231072f96d",
+    "changes": [
+      {
+        "offset": 692,
+        "remove": 56,
+        "text": "    file: \\common\\player_info_snapshot_fiona_01_ui.dds\n  - index: 38\n    file: \\common\\player_info_snapshot_gingerbread_01_ui.dds\n  - index: 40\n    file: \\common\\player_info_snapshot_lilred_01_ui.dds\n  - index: 42\n    file: \\common\\player_info_snapshot_pussnboots_01_ui.dds\n  - index: 45\n    file: \\common\\player_info_snapshot_wolf_01_ui.dds\n  - index: 41\n    file: \\common\\player_info_snapshot_handsomeshrek_01_ui.dds\n"
+      }
+    ]
+  }
+]
